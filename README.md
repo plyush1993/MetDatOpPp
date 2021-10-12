@@ -17,3 +17,4 @@ File Name | Source | Run Order | Batch | Total Factors | Numeric Factors | Categ
 [MW 387](https://github.com/plyush1993/MetDatOpPp/blob/main/MW%20387.csv) | [Link](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR000303) | + | 1 | 1 | 0 | 1 (1, 2 levels)
 [MW 1200 RP](https://github.com/plyush1993/MetDatOpPp/blob/main/MW%201200%20RP.csv) | [Link](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR000808) | + | 7 | 0 | 0 | 0
 [MW 1200 HILIC](https://github.com/plyush1993/MetDatOpPp/blob/main/MW%201200%20HILIC.csv) | [Link](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR000808) | + | 7 | 0 | 0 | 0
+[MW 1722](https://github.com/plyush1993/MetDatOpPp/blob/main/MW%201722.csv) | [Link](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR001104) | + | 2 | 2 | 0 | 2 (2, 2 levels)
