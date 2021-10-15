@@ -3,7 +3,7 @@
 <!-- badges: end -->
 
 # MetDatOpPp
-Metabolomics Datasets for Optimization of Pre-Processing from [*Metabolomics Workbench*](https://www.metabolomicsworkbench.org/) and [*MetaboLights*](https://www.ebi.ac.uk/metabolights/index) repositories.
+Metabolomics Datasets for Optimization of Pre-Processing from [*Metabolomics Workbench*](https://www.metabolomicsworkbench.org/) and [*MetaboLights*](https://www.ebi.ac.uk/metabolights/index) repositories or from original R packages. FIMS or semi-targeted experiments are not considered.
 All missing values were coded as gaps. Non-informative columns and samples were preliminarily deleted. The table contains key information about datasets: file name, source link, label for LC/MS run order, number of batches, total number of factors and two columns with structure of factors.
 
 File Name | Source | Run Order | Batch | Total Factors | Numeric Factors | Categorical Factors
