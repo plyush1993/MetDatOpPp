@@ -20,3 +20,4 @@ File Name | Source | Run Order | Batch | Total Factors | Numeric Factors | Categ
 [MW 1722](https://github.com/plyush1993/MetDatOpPp/blob/main/MW%201722.csv) | [Link](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR001104) | + | 2 | 2 | 0 | 2 (2, 2 levels)
 [Amide_data WaveICA](https://github.com/dengkuistat/WaveICA/blob/master/data/Amide_data.rda) | [Link](https://www.sciencedirect.com/science/article/pii/S0003267019301849?via%3Dihub) | + | 4 | 1 | 0 | 1 (2 levels)
 [Amide_data WaveICA 2.0](https://github.com/dengkuistat/WaveICA_2.0/blob/master/data/Amide_data.rda) | [Link](https://link.springer.com/article/10.1007%2Fs11306-021-01839-7) | + | 3 | 1 | 0 | 1 (2 levels)
+[Set_1 BatchCorrMetabolomics](https://github.com/plyush1993/MetDatOpPp/blob/main/Set_1%20BatchCorrMetabolomics.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1015-8) | + | 6 | 0 | 0 | 0
