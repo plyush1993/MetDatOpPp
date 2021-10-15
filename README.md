@@ -3,7 +3,7 @@
 <!-- badges: end -->
 
 # MetDatOpPp
-Metabolomics Datasets for Optimization of Pre-Processing from [*Metabolomics Workbench*](https://www.metabolomicsworkbench.org/) and [*MetaboLights*](https://www.ebi.ac.uk/metabolights/index) repositories or from original R packages. Datasets from WaveICA packages are available at original GitHub repo. FIMS or semi-targeted experiments are not considered. All data were collected from LC-HRMS instruments (except MTBLS 2483 - LC-LRMS).
+Metabolomics Datasets for Optimization of Pre-Processing from [*Metabolomics Workbench*](https://www.metabolomicsworkbench.org/) and [*MetaboLights*](https://www.ebi.ac.uk/metabolights/index) repositories or from original R packages. FIMS or semi-targeted experiments are not considered. All data were collected from LC-HRMS instruments (except MTBLS 2483 - LC-LRMS).
 All missing values were coded as gaps. Non-informative columns and samples were preliminarily deleted. The table contains key information about datasets: file name, source link, label for LC/MS run order, number of batches, total number of factors and two columns with structure of factors.
 
 File Name | Source | Run Order | Batch | Total Factors | Numeric Factors | Categorical Factors
@@ -18,8 +18,8 @@ File Name | Source | Run Order | Batch | Total Factors | Numeric Factors | Categ
 [MW 1200 RP](https://github.com/plyush1993/MetDatOpPp/blob/main/MW%201200%20RP.csv) | [Link](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR000808) | + | 7 | 0 | 0 | 0
 [MW 1200 HILIC](https://github.com/plyush1993/MetDatOpPp/blob/main/MW%201200%20HILIC.csv) | [Link](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR000808) | + | 7 | 0 | 0 | 0
 [MW 1722](https://github.com/plyush1993/MetDatOpPp/blob/main/MW%201722.csv) | [Link](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Project&ProjectID=PR001104) | + | 2 | 2 | 0 | 2 (2, 2 levels)
-[Amide_data WaveICA](https://github.com/dengkuistat/WaveICA/blob/master/data/Amide_data.rda) | [Link](https://www.sciencedirect.com/science/article/pii/S0003267019301849?via%3Dihub) | + | 4 | 1 | 0 | 1 (2 levels)
-[Amide_data WaveICA 2.0](https://github.com/dengkuistat/WaveICA_2.0/blob/master/data/Amide_data.rda) | [Link](https://link.springer.com/article/10.1007%2Fs11306-021-01839-7) | + | 3 | 1 | 0 | 1 (2 levels)
+[Amide_data WaveICA](https://github.com/plyush1993/MetDatOpPp/blob/main/Amide_data%20WaveICA.rar) | [Link](https://www.sciencedirect.com/science/article/pii/S0003267019301849?via%3Dihub) | + | 4 | 1 | 0 | 1 (2 levels)
+[Amide_data WaveICA 2.0](https://github.com/plyush1993/MetDatOpPp/blob/main/Amide_data%20WaveICA%202.0.rar) | [Link](https://link.springer.com/article/10.1007%2Fs11306-021-01839-7) | + | 3 | 1 | 0 | 1 (2 levels)
 [Set_1 BatchCorrMetabolomics](https://github.com/plyush1993/MetDatOpPp/blob/main/Set_1%20BatchCorrMetabolomics.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1015-8) | + | 6 | 0 | 0 | 0
 [OneBatchData batchCorr](https://github.com/plyush1993/MetDatOpPp/blob/main/OneBatchData%20batchCorr.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1124-4) | + | 1 | 0 | 0 | 0
 [ThreeBatchData batchCorr](https://github.com/plyush1993/MetDatOpPp/blob/main/ThreeBatchData%20batchCorr.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1124-4) | + | 3 | 0 | 0 | 0
