@@ -24,3 +24,4 @@ File Name | Source | Run Order | Batch | Total Factors | Numeric Factors | Categ
 [Set_1 BatchCorrMetabolomics](https://github.com/plyush1993/MetDatOpPp/blob/main/Set_1%20BatchCorrMetabolomics.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1015-8) | + | 6 | 0 | 0 | 0 | 761/567/51
 [OneBatchData batchCorr](https://github.com/plyush1993/MetDatOpPp/blob/main/OneBatchData%20batchCorr.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1124-4) | + | 1 | 0 | 0 | 0 | 34/11284/18
 [ThreeBatchData batchCorr](https://github.com/plyush1993/MetDatOpPp/blob/main/ThreeBatchData%20batchCorr.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1124-4) | + | 3 | 0 | 0 | 0 | 90/11815/48
+[SERRF](https://github.com/plyush1993/MetDatOpPp/blob/main/SERRF.csv) | [Link](https://pubs.acs.org/doi/10.1021/acs.analchem.8b05592) | + | 4 | 0 | 0 | 0 | 1287/268/125
