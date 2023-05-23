@@ -25,3 +25,6 @@ File Name | Source | Run Order | Batch | Total Factors | Numeric Factors | Categ
 [OneBatchData batchCorr](https://github.com/plyush1993/MetDatOpPp/blob/main/OneBatchData%20batchCorr.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1124-4) | + | 1 | 0 | 0 | 0 | 34/11284/18
 [ThreeBatchData batchCorr](https://github.com/plyush1993/MetDatOpPp/blob/main/ThreeBatchData%20batchCorr.csv) | [Link](https://link.springer.com/article/10.1007%2Fs11306-016-1124-4) | + | 3 | 0 | 0 | 0 | 90/11815/48
 [SERRF](https://github.com/plyush1993/MetDatOpPp/blob/main/SERRF.csv) | [Link](https://pubs.acs.org/doi/10.1021/acs.analchem.8b05592) | + | 4 | 0 | 0 | 0 | 1287/268/125
+
+## Contact:
+Please send any comment, suggestion or question you may have to the author (Dr. Ivan Plyushchenko), email: plyushchenko.ivan@gmail.com.
